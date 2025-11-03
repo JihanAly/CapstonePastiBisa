@@ -113,3 +113,7 @@ ghenayari/capstonepastibisa
 | `app.utilities.data` | Fungsionalitas koneksi dan operasi dasar database (`DatabaseConnection`). |
 | `app.utilities.base` | Kelas dasar yang menyediakan fungsionalitas umum untuk *Controller* (contoh: `BaseController`). |
 | `app.utilities.authentication.registration` | Logika dan kontrak untuk mekanisme pendaftaran pengguna. |
+
+
+
+
